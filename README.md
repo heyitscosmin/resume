@@ -1,37 +1,57 @@
-## Welcome to GitHub Pages
+# Cosmin Balauta
 
-You can use the [editor on GitHub](https://github.com/heyitscosmin/resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_Wannabe Software engineer_ <br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Email](mailto:b.cosmin96@gmail.com) b.cosmin96@gmail.com / [LinkedIn](https://www.linkedin.com/in/cosmin-b%C4%83l%C4%83u%C8%9B%C4%83-5509b5121/) Cosmin Balauta / [GitHub](https://github.com/heyitscosmin) heyitscosmin
 
-### Markdown
+## 🦾 Work Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Test Analyst** @ [Cerner](https://www.cerner.com/) - Brasov, Romania _(Nov 2019 - Present)_ <br>
 
-```markdown
-Syntax highlighted code block
+  - Identified and tracked defects with JIRA and supported developers in resolving problems by completing additional tests.
+  - Wrote and optimized test cases to maximize success of manual and automated software testing with consistent, thorough approaches.
+  - Fixed issues effectively to increase productivity and boost workflows.
+  - Writing and running queries and stored procedures in SQL in order to manipulate data.
+  - Used AWS virtual machines in order to perform testing.
+  - **_Technologies used:_** HTML, CSS, Javascript, Java, Selenium, HP Quality Center, Cognizant Intelligent Quality Designer
+<br><br>
 
-# Header 1
-## Header 2
-### Header 3
+**Quality Assurance Engineer Internship** @ [Preh](https://www.preh.com/) - Brasov, Romania _(Aug 2018 - Nov 2018)_ <br>
 
-- Bulleted
-- List
+  - Validating quality processes by establishing product specifications and quality attributes, measuring
+production, documenting evidence, determining operational and performance qualification.
+  - Achieved quality assurance operational objectives by contributing information and analysis to
+strategic plans and reviews.
+  - Prepared quality documentation and reports by collecting, analyzing and summarizing information
+including failed processes.
+  - **_Technologies used:_** SAP.
+<br><br>
 
-1. Numbered
-2. List
+**Production Engineer Internship** @ [Benchmark Electronics](https://www.bench.com/brasov-romania) - Brasov, Romania _(Jul 2017 - Jul 2018)_ <br>
 
-**Bold** and _Italic_ and `Code` text
+  - Member of the NPI team, using PCB board layouts, BOM part lists.
+  - Analysing the failures in the Production.
+  - Working from customers BOM's / drawings to ensure that manufacturing is completed to required
+standards.
+  - Provided promp and accurate reporting to direct and upper management when needed.
+  - Continuous improvements activities on Engineering level.
+  - **_Technologies used:_** C++, Visual Basic, Lab View.
+ <br><br>
 
-[Link](url) and ![Image](src)
-```
+**Electronics 101 Internship** @ [ZAV Zentrum](https://www.zaw-leipzig.de/) - Leipzig, Germany _(Jul 2014 - Nov 2014)_ <br>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+ <br><br>
 
-### Jekyll Themes
+## 💬 Languages
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/heyitscosmin/resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Romanian**: Native <br>
+**English**: B2
+<br><br>
 
-### Support or Contact
+## 🎓 Education
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Bachelor of Computer Science**<br>
+[Transilvania University of Brasov](https://iesc.unitbv.ro/) - Brasov, Romania _(2015 - 2019)_
+
+**International Exchange** studying Political Science<br>
+[Yeditepe Üniversitesi](https://yeditepe.edu.tr/en) - Istanbul, Turkey _(Spring 2013)_
