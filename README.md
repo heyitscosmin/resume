@@ -13,7 +13,7 @@ _Wannabe Software engineer_ <br>
   - Fixed issues effectively to increase productivity and boost workflows.
   - Writing and running queries and stored procedures in SQL in order to manipulate data.
   - Used AWS virtual machines in order to perform testing.
-  - Troubleshoot, debug and maintain software functionality.
+  - Part time doing developer stuff such as troubleshoot, debug and maintain software functionality.
   - **_Technologies used:_** HTML, CSS, Javascript, Java, SQL, Selenium, HP Quality Center, Cognizant Intelligent Quality Designer
 <br><br>
 
