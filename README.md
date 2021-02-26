@@ -52,6 +52,3 @@ standards.
 
 **Bachelor of Computer Science**<br>
 [Transilvania University of Brasov](https://iesc.unitbv.ro/) - Brasov, Romania _(2015 - 2019)_
-
-**International Exchange** studying Political Science<br>
-[Yeditepe Üniversitesi](https://yeditepe.edu.tr/en) - Istanbul, Turkey _(Spring 2013)_
