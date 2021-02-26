@@ -13,7 +13,7 @@ _Wannabe Software engineer_ <br>
   - Fixed issues effectively to increase productivity and boost workflows.
   - Writing and running queries and stored procedures in SQL in order to manipulate data.
   - Used AWS virtual machines in order to perform testing.
-  - **_Technologies used:_** HTML, CSS, Javascript, Java, Selenium, HP Quality Center, Cognizant Intelligent Quality Designer
+  - **_Technologies used:_** HTML, CSS, Javascript, Java, SQL, Selenium, HP Quality Center, Cognizant Intelligent Quality Designer
 <br><br>
 
 **Quality Assurance Engineer Internship** @ [Preh](https://www.preh.com/) - Brasov, Romania _(Aug 2018 - Nov 2018)_ <br>
