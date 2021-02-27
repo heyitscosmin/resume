@@ -14,6 +14,7 @@ _Wannabe Software engineer_ <br>
   - Writing and running queries and stored procedures in SQL in order to manipulate data.
   - Used AWS virtual machines in order to perform testing.
   - Part time doing developer stuff such as troubleshoot, debug, fix and maintain software functionality.
+  - Part time designing and writing test automation scripts using Selenium and TestNG.
   - **_Technologies used:_** HTML, CSS, Javascript, Java, SQL, Selenium, HP Quality Center, Cognizant Intelligent Quality Designer
 <br><br>
 
