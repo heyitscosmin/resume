@@ -1,6 +1,6 @@
 # Cosmin Balauta
 
-_Wannabe Software engineer_ <br>
+<br>
 
 [Email](mailto:b.cosmin96@gmail.com) b.cosmin96@gmail.com / [LinkedIn](https://www.linkedin.com/in/cosmin-b%C4%83l%C4%83u%C8%9B%C4%83-5509b5121/) Cosmin Balauta / [GitHub](https://github.com/heyitscosmin) heyitscosmin
 
